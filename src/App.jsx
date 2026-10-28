@@ -5,8 +5,8 @@ const skills = [
   { name: 'Git', done: true },
   { name: 'GitHub', done: true },
   { name: 'React (Vite)', done: true },
-  { name: 'Cloudflare Deploy', done: true },
-  { name: 'CI/CD', done: false },
+  { name: 'Minh Phuong', done: true },
+  { name: 'Pham JK', done: false },
   { name: 'Eigene Domain', done: false },
 ]
 
@@ -24,8 +24,8 @@ function App() {
   return (
     <main className="page">
       <header className="hero">
-        <h1>Hallo, ich bin Minh 👋</h1>
-        <p>Ich lerne Webentwicklung mit Git, React und Cloudflare.</p>
+        <h1>Hallo, ich bin Phuong 👋</h1>
+        <p>Ich bin 24 Jahre alt, ich bin arbeitlos und jetzt warte ich die Arbeitserlaubnis.</p>
       </header>
 
       <section className="card">
